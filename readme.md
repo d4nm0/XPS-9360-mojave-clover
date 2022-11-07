@@ -38,9 +38,9 @@ Install hackintosh into dell xps 9360
 | USB 2.0                  |                                                     |
 | Fingerprint Sensor       |                                                 |
 | SD Card Slot             |                                                 |
-| Screen brightness        | Working, hotkeys fn+S/fn+B to decrease/increase brightness |
-| Built-in WiFi            | Working                                                    |
-| Built-in Bluetooth       | Not tested                                                 |
-| Dell USB3.1 dock         | Not tested                                                 |
-| Built-in webcam          | Working                                                    |
-| Sleep                    | Not working                                                |
+| Screen brightness        |  |
+| Built-in WiFi            |                                                     |
+| Built-in Bluetooth       |                                                  |
+| Dell USB3.1 dock         |                                                  |
+| Built-in webcam          |                                                     |
+| Sleep                    |                                                 |
