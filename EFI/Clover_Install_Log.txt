@@ -1,0 +1,44 @@
+
+Clover EFI installer log - Tue Nov 15 14:35:58 PST 2022
+Installer version: r5122 (commit: 1fe7cc1cf) EFI bootloader
+======================================================
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *256.1 GB   disk0
+   1:                        EFI NO NAME                 104.9 MB   disk0s1
+   2:         Microsoft Reserved                         16.8 MB    disk0s2
+   3:       Microsoft Basic Data                         129.5 GB   disk0s3
+   4:                 Apple_APFS Container disk1         126.5 GB   disk0s4
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +126.5 GB   disk1
+                                 Physical Store disk0s4
+   1:                APFS Volume macos                   30.3 GB    disk1s1
+   2:                APFS Volume Preboot                 46.3 MB    disk1s2
+   3:                APFS Volume Recovery                510.4 MB   disk1s3
+   4:                APFS Volume                         8.8 GB     disk1s4
+   5:                APFS Volume Update                  1.6 MB     disk1s5
+   6:                APFS Volume VM                      1.1 MB     disk1s6
+
+/dev/disk2 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *30.8 GB    disk2
+   1:                        EFI EFI                     209.7 MB   disk2s1
+   2:                  Apple_HFS Install macOS Mojave    30.4 GB    disk2s2
+
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/Install macOS Mojave/EFIROOTDIR/EFI folder to /Volumes/Install macOS Mojave/EFI-Backups/r0000/2022-11-15-14h35/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /Volumes/Install macOS Mojave
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /Volumes/Install macOS Mojave
+
+Theme 'Clovy' (defined in config.plist) not found !
+Using default theme 'BGM'
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
