@@ -12,21 +12,17 @@ Install hackintosh into dell xps 9360
 
 | Specification             | Details                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Model |  |
-| Processor |  |
-| Integrated Graphics |  |
-| Discrete Graphics |  |
-| RAM |  |
-| Storage |  |
+| Model | Dell XPS 9360 |
+| Processor | I7 7500U  |
+| Integrated Graphics | Intel HD GRAPHIC 620 |
 | Sound Card	 |  |
-| Wireless Card |  |
-| SD Card Reader |  |
+| Wireless Card | USB Dongle |
 
 ## Functional Status
 
 | Function / Hardware      | Status                                                     |
 | ------------------------ | ---------------------------------------------------------- |
-| iGPU UHD630 Acceleration |                                                     |
+| iGPU UHD620 Acceleration |                                                     |
 | CPU Power Management     |                                                     |
 | Laptop Keyboard          |                                                     |
 | Laptop Trackpad          |                                                     |
