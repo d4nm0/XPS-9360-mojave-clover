@@ -1,5 +1,5 @@
 
-# DELL XPS 9360 MacOS Ventura
+# DELL XPS 9360 MacOS Mojave
 
 Install hackintosh into dell xps 9360 
 
