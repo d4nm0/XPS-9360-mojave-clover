@@ -31,3 +31,4 @@ Install hackintosh into dell xps 9360
 | Built-in WiFi            |     [x]                                                |
 | Built-in webcam          |       [x]                                              |
 | Sleep                    |         [x]                                        |
+| IService                    |         Don't Work :(                                        |
