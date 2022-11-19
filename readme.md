@@ -22,7 +22,7 @@ Install hackintosh into dell xps 9360
 
 | Function / Hardware      | Status                                                     |
 | ------------------------ | ---------------------------------------------------------- |
-| iGPU UHD620 Acceleration |                     [ x ]                                |
+| iGPU UHD620 Acceleration |                     [x]                               |
 | Laptop Keyboard          |                       [x]                              |
 | Laptop Trackpad          |                        [x]                             |
 | Hotkeys for audio        |                       [x]                           |
