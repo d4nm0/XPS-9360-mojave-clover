@@ -22,21 +22,12 @@ Install hackintosh into dell xps 9360
 
 | Function / Hardware      | Status                                                     |
 | ------------------------ | ---------------------------------------------------------- |
-| iGPU UHD620 Acceleration |                                                     |
-| CPU Power Management     |                                                     |
-| Laptop Keyboard          |                                                     |
-| Laptop Trackpad          |                                                     |
-| Laptop Headphones Jack   |                                           |
-| Built-in Speakers        |                                           |
-| Built-in Mic             |                                                  |
-| Hotkeys for audio        |                                                  |
-| USB 3.x                  |                                                     |
-| USB 2.0                  |                                                     |
-| Fingerprint Sensor       |                                                 |
-| SD Card Slot             |                                                 |
-| Screen brightness        |  |
-| Built-in WiFi            |                                                     |
-| Built-in Bluetooth       |                                                  |
-| Dell USB3.1 dock         |                                                  |
-| Built-in webcam          |                                                     |
-| Sleep                    |                                                 |
+| iGPU UHD620 Acceleration |                     [x]                                |
+| Laptop Keyboard          |                       [x]                              |
+| Laptop Trackpad          |                        [x]                             |
+| Hotkeys for audio        |                       [x]                           |
+| USB                   |                          [x]                           |
+| Screen brightness        |  |[x]
+| Built-in WiFi            |     [x]                                                |
+| Built-in webcam          |       [x]                                              |
+| Sleep                    |         [x]                                        |
