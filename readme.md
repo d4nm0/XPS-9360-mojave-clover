@@ -27,7 +27,7 @@ Install hackintosh into dell xps 9360
 | Laptop Trackpad          |                        [x]                             |
 | Hotkeys for audio        |                       [x]                           |
 | USB                   |                          [x]                           |
-| Screen brightness        |  |[x]
+| Screen brightness        |  [x]|
 | Built-in WiFi            |     [x]                                                |
 | Built-in webcam          |       [x]                                              |
 | Sleep                    |         [x]                                        |
