@@ -6,7 +6,7 @@ Install hackintosh into dell xps 9360
 
 ## Screenshots
 
-![App Screenshot](Capture d’écran 2022-11-19 à 22.37.49.png)
+![Hackintosh](https://raw.githubusercontent.com/d4nm0/XPS-9360-mojave-clover/main/Capture%20d%E2%80%99e%CC%81cran%202022-11-19%20a%CC%80%2022.37.49.png)
 
 ## Specification
 
