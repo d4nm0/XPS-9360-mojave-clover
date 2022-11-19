@@ -6,7 +6,7 @@ Install hackintosh into dell xps 9360
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Capture d’écran 2022-11-19 à 22.37.49.png)
 
 ## Specification
 
